@@ -1,2 +1,2 @@
 # Competitive-Programmers-Extention
-A chrome extention to make the coding websites easily accessible for the programmers.
+A chrome extention to make the coding websites easily accessible.
